@@ -39,5 +39,5 @@ For comprehensive documentation and usage guidelines for SyncFusion components, 
 
 
 ## Bootstrap and Custom CSS
-Bootstrap classes and custom CSS are used to enhance the user experience. The theme applied is Bootstrap 5 Dark theme: [Bootstrap 5 Dark Theme](https://cdn.syncfusion.com/ej2/23.1.36/bootstrap5-dark.css)
+Bootstrap classes and custom CSS are used to further enhance the user experience. The theme applied is Bootstrap 5 Dark theme: [Bootstrap 5 Dark Theme](https://ej2.syncfusion.com/aspnetcore/documentation/appearance/theme)
 
