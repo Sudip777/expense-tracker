@@ -33,9 +33,7 @@ The Donut Chart is employed to illustrate various income and expense categories.
 The Spline Chart is utilized to represent income versus expense data for the last 7 days.
 
 ### 3. Form Elements: Buttons/Inputs
-[Documentation](https://ej2.syncfusion.com/aspnetmvc/documentation/button/getting-started)
-[Documentation](https://ej2.syncfusion.com/aspnetmvc/documentation/textbox/getting-started)
-For comprehensive documentation and usage guidelines for SyncFusion components, please refer to the [official SyncFusion documentation](https://ej2.syncfusion.com/aspnetcore/documentation/introduction).
+For comprehensive documentation and usage guidelines for SyncFusion components, please refer to the [documentation](https://ej2.syncfusion.com/aspnetcore/documentation/introduction).
 
 
 ## Bootstrap and Custom CSS
