@@ -1,6 +1,6 @@
 # Expense Tracker: Asp .Net Core MVC
 
-![Expense Tracker Screenshot](https://github.com/Sudip777/expense-tracker/assets/83223293/84dbaeeb-ffda-4a1d-8328-c2baebcc1430)
+<img width="1025" alt="Screenshot 2023-10-01 191729" src="https://github.com/Sudip777/expense-tracker/assets/83223293/d4af8246-ef04-4aa7-997f-2279e5ffb0f9">
 
 ## Key Features
 
